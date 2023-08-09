@@ -1,0 +1,533 @@
+
+<!doctype html>
+<html lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="/img/favicon/site.webmanifest">
+<link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#fbba33">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<title>Celebrating International Day of Women and Girls in Science  | St Edmund Hall</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500&#038;family=IBM+Plex+Serif&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500&#038;family=IBM+Plex+Serif&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500&#038;family=IBM+Plex+Serif&#038;display=swap" /></noscript>
+<meta name="description" content="This International Day of Women and Girls in Science, the Library is exploring our collections to celebrate women in climate science">
+<noscript itemscope itemtype="http://schema.org/WebSite">
+	<meta itemprop="name" content="St Edmund Hall">
+</noscript>
+<noscript itemscope itemtype="http://schema.org/WebPage">
+	<meta itemprop="name" content="Celebrating International Day of Women and Girls in Science  | St Edmund Hall">
+	<meta itemprop="description" content="This International Day of Women and Girls in Science, the Library is exploring our collections to celebrate women in climate science">
+</noscript>
+<meta property="og:locale" content="en-GB">
+<meta property="og:site_name" content="St Edmund Hall">
+<meta property="og:url" content="https://www.seh.ox.ac.uk/blog/celebrating-international-day-of-women-and-girls-in-science-through-the-library">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Celebrating International Day of Women and Girls in Science  | St Edmund Hall">
+<meta property="og:description" content="This International Day of Women and Girls in Science, the Library is exploring our collections to celebrate women in climate science">
+<meta name="twitter:site" content="@StEdmundHall">
+<meta name="twitter:title" content="Celebrating International Day of Women and Girls in Science  | St Edmund Hall">
+<meta name="twitter:description" content="This International Day of Women and Girls in Science, the Library is exploring our collections to celebrate women in climate science">
+<meta name="twitter:card" content="summary">
+<link id="canonical" itemprop="url" rel="canonical" href="https://www.seh.ox.ac.uk/blog/celebrating-international-day-of-women-and-girls-in-science-through-the-library">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/elevatezoom/3.0.8/jquery.elevatezoom.min.js"></script>
+<script src="https://cdn.rawgit.com/leafo/sticky-kit/v1.1.2/jquery.sticky-kit.min.js"></script>
+<meta name='robots' content='max-image-preview:large' />
+
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$','$'],['\\(','\\)']], 
+    processEscapes: true
+  },
+  options: {
+    ignoreHtmlClass: 'tex2jax_ignore|editor-rich-text'
+  }
+};
+
+</script>
+<link rel='stylesheet' id='rb_master_css-css' href='https://www.seh.ox.ac.uk/css/master.css' type='text/css' media='all' />
+<link rel='stylesheet' id='searchwp-forms-css' href='https://www.seh.ox.ac.uk/wp-content/plugins/searchwp/assets/css/frontend/search-forms.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.seh.ox.ac.uk/js/master.min.js' id='rb_master_js-js'></script>
+<script type='text/javascript' id='rb_front_js-js-extra'>
+/* <![CDATA[ */
+var rb_modal_data = {"ajax_url":"https:\/\/www.seh.ox.ac.uk\/wp-admin\/admin-ajax.php","ajax_security":"77b93007f4","ajax_action":"rb_modal_import"};
+var rb_logout_data = {"ajax_url":"https:\/\/www.seh.ox.ac.uk\/wp-admin\/admin-ajax.php","ajax_security":"6fb151b3ff","ajax_action":"rb_ajax_logout","redirect":"https:\/\/www.seh.ox.ac.uk"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.seh.ox.ac.uk/wp-content/themes/seh/rb-flexible-content/rb-front.min.js' id='rb_front_js-js'></script>
+</head>
+<body data-usr="0">
+<header>
+	<div id="logo">
+		<a id="skip" href="#main">Skip to main content</a>
+		<a href="/" aria-label="St Edmunds Hall home page"><img src="/img/seh-logo-colour.svg" width="100" height="27" alt="St Edmunds Hall logo"></a>
+	</div>
+	<div class="header_form" role="dialog" aria-modal="true">
+		<form action="/" method="get" id="search" role="search" aria-labelledby="search-toggle">
+			<input type="search" name="s" placeholder="Search our website" autocomplete="off">
+			<input type="submit" value="Search">
+		</form>
+	</div>		
+	<div id="nav">
+		<a id="show-menu" role="button" aria-controls="menu" aria-haspopup="true"><span>Open Menu</span></a>
+		<nav id="menu">
+			<a id="hide-menu" role="button" aria-controls="menu" aria-haspopup="false"><span>Close Menu</span></a>
+			<ul id="mn">
+				<li><a href="/">Home</a></li>
+
+			<li class="submenu"><a href="/study" title=""><span><em>Study Here</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul436">Show submenu for Study Here</button>
+		<ul id="ul436" class="nested" data-features="2"aria-label=" submenu">
+			<li><a href="/study/undergraduate/why-teddy-hall" title=""><span><em>Why Teddy Hall?</em></span></a></li>
+			<li class="submenu"><a href="/study/undergraduate" title=""><span><em>Undergraduate Study</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul447">Show submenu for Undergraduate Study</button>
+			<ul id="ul447"aria-label=" submenu">
+				<li><a href="/subjects/undergraduates" title=""><span><em>Courses</em></span></a></li>
+				<li><a href="/study/undergraduate/undergraduate-finance" title=""><span><em>Undergraduate Finance</em></span></a></li>
+				<li><a href="/study/undergraduate/why-teddy-hall" title=""><span><em>Why Teddy Hall?</em></span></a></li>
+				<li><a href="/study/undergraduate/student-profiles" title=""><span><em>Student Profiles</em></span></a></li>
+				<li><a href="/study/undergraduate/apply" title=""><span><em>How do I apply?</em></span></a></li>
+				<li><a href="/study/undergraduate/prospectus" title=""><span><em>Prospectuses</em></span></a></li>
+			</ul>
+		</li>
+			<li class="submenu"><a href="/study/postgraduate" title=""><span><em>Postgraduate Study</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul446">Show submenu for Postgraduate Study</button>
+			<ul id="ul446"aria-label=" submenu">
+				<li><a href="https://www.ox.ac.uk/admissions/graduate/colleges/st-edmund-hall?wssl=1#content-tab--2" title=""><span><em>Courses</em></span></a></li>
+				<li><a href="/study/postgraduate/postgraduate-finance" title=""><span><em>Postgraduate Finance</em></span></a></li>
+				<li><a href="/study/postgraduate/postgraduate-scholarships" title=""><span><em>Scholarships</em></span></a></li>
+				<li><a href="/study/postgraduate/prizes-and-grants-for-postgraduates" title=""><span><em>Prizes and Grants</em></span></a></li>
+				<li><a href="/study/postgraduate/how-do-i-apply" title=""><span><em>How do I apply?</em></span></a></li>
+			</ul>
+		</li>
+			<li class="submenu"><a href="/study/visiting-students" title=""><span><em>Visiting Students</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul445">Show submenu for Visiting Students</button>
+			<ul id="ul445"aria-label=" submenu">
+				<li><a href="/study/visiting-students/studying-as-a-visiting-student" title=""><span><em>Studying here as a Visiting Student</em></span></a></li>
+				<li><a href="/subjects/visiting-students" title=""><span><em>Courses</em></span></a></li>
+				<li><a href="/study/visiting-students/finance" title=""><span><em>Finance</em></span></a></li>
+				<li><a href="/study/visiting-students/apply" title=""><span><em>How do I apply?</em></span></a></li>
+				<li><a href="/study/visiting-students/visiting-student-profiles" title=""><span><em>Student Profiles</em></span></a></li>
+				<li><a href="/study/visiting-students/faqs" title=""><span><em>Frequently Asked Questions</em></span></a></li>
+			</ul>
+		</li>
+			<li class="submenu"><a href="/study/visit" title=""><span><em>Visit Us</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul2211">Show submenu for Visit Us</button>
+			<ul id="ul2211"aria-label=" submenu">
+				<li><a href="/study/visit/undergraduate" title=""><span><em>Undergraduates</em></span></a></li>
+				<li><a href="/study/visit/postgraduate" title=""><span><em>Postgraduates</em></span></a></li>
+				<li><a href="/study/outreach" title=""><span><em>Schools and Colleges</em></span></a></li>
+				<li><a href="/study/visit/parents" title=""><span><em>Parents</em></span></a></li>
+			</ul>
+		</li>
+			<li><a href="/study/outreach" title=""><span><em>Schools and Outreach</em></span></a></li>
+			<li data-feature="1"><a href="/study/undergraduate/why-teddy-hall" title="" style="background-image: url(/asset/Teddy_Hall_by_John_Cairns_20.5.19-102-min-mobile.jpg);" aria-label="Why Teddy Hall?, Separate the fact from the fiction, a students&#039; guide to St Edmund Hall - Find out more"><span data-cta="Find out more"><em data-excerpt="Separate the fact from the fiction, a students&#039; guide to St Edmund Hall">Why Teddy Hall?</em></span></a></li>
+			<li data-feature="2" class="hide-nonbox"><a href="/study/visit" title="" style="background-image: url(/asset/36133405005_51f9431274_ors-mobile.jpg);" aria-label="Visit Us, We welcome prospective students who wish to look around the College - Find out more"><span data-cta="Find out more"><em data-excerpt="We welcome prospective students who wish to look around the College">Visit Us</em></span></a></li>
+		</ul>
+		</li>
+			<li class="submenu"><a href="/college-life" title=""><span><em>College Life</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul435">Show submenu for College Life</button>
+		<ul id="ul435" class="nested" data-features="2"aria-label=" submenu">
+			<li class="submenu"><a href="/college-life/our-community" title=""><span><em>Our Community</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul1176">Show submenu for Our Community</button>
+			<ul id="ul1176"aria-label=" submenu">
+				<li><a href="/people" title=""><span><em>People</em></span></a></li>
+				<li><a href="/women-of-the-hall" title=""><span><em>Women of the Hall</em></span></a></li>
+				<li><a href="/vacancies" title=""><span><em>Job Vacancies</em></span></a></li>
+			</ul>
+		</li>
+			<li><a href="/college-life/accommodation" title=""><span><em>Student Accommodation</em></span></a></li>
+			<li><a href="/college-life/meals" title=""><span><em>Meals</em></span></a></li>
+			<li class="submenu"><a href="/college-life/creative-writing" title=""><span><em>Creative Writing</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul1173">Show submenu for Creative Writing</button>
+			<ul id="ul1173"aria-label=" submenu">
+				<li><a href="/college-life/creative-writing/wednesday-workshops" title=""><span><em>Wednesday Workshops</em></span></a></li>
+				<li><a href="/college-life/creative-writing/meet-the-poet-series" title=""><span><em>Meet the Poet Series</em></span></a></li>
+				<li><a href="/college-life/creative-writing/the-st-edmund-hall-gallery" title=""><span><em>The Gallery</em></span></a></li>
+				<li><a href="/college-life/creative-writing/hall-writers-forum" title=""><span><em>Hall Writers’ Forum</em></span></a></li>
+				<li><a href="/people/writers" title=""><span><em>Hall Writers' Directory</em></span></a></li>
+			</ul>
+		</li>
+			<li class="submenu"><a href="/college-life/music" title=""><span><em>Music</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul1175">Show submenu for Music</button>
+			<ul id="ul1175"aria-label=" submenu">
+				<li><a href="/college-life/music/choir-of-st-edmund-hall" title=""><span><em>Choir of St Edmund Hall</em></span></a></li>
+				<li><a href="/college-life/music/support-for-musicians" title=""><span><em>Support for Musicians</em></span></a></li>
+				<li><a href="/college-life/music/music-facilities-at-the-college" title=""><span><em>Music Facilities</em></span></a></li>
+				<li><a href="/college-life/music/music-events-and-activities" title=""><span><em>Music Events & Activities</em></span></a></li>
+			</ul>
+		</li>
+			<li><a href="/college-life/clubs-and-societies" title=""><span><em>Clubs and Societies</em></span></a></li>
+			<li><a href="/college-life/sport" title=""><span><em>Sport</em></span></a></li>
+			<li data-feature="1" class="hide-nonbox"><a href="/college-life/accommodation" title="" style="background-image: url(/asset/27835384823_093bfe96e8_z-mobile.jpg);" aria-label="Student Accommodation - Find out more"><span data-cta="Find out more"><em>Student Accommodation</em></span></a></li>
+			<li data-feature="2"><a href="/study/undergraduate/why-teddy-hall" title="" style="background-image: url(/asset/Balloons-mobile.jpg);" aria-label="Why Teddy Hall?, Find out what makes us different! - Read more"><span data-cta="Read more"><em data-excerpt="Find out what makes us different!">Why Teddy Hall?</em></span></a></li>
+		</ul>
+		</li>
+			<li class="submenu"><a href="/discover" title=""><span><em>Discover</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul434">Show submenu for Discover</button>
+		<ul id="ul434" class="nested" data-features="2"aria-label=" submenu">
+			<li data-feature="1"><a href="/people/fellows" title="" style="background-image: url(/asset/Fellowship-Lunchtime-Lectures-Collage-2021-mobile.jpg);" aria-label="Fellows, View the college&#039;s fellowship - Find out more"><span data-cta="Find out more"><em data-excerpt="View the college&#039;s fellowship">Fellows</em></span></a></li>
+			<li class="submenu"><a href="/about" title=""><span><em>About</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul8136">Show submenu for About</button>
+			<ul id="ul8136"aria-label=" submenu">
+				<li><a href="/discover/sustainability" title=""><span><em>Sustainability at St Edmund Hall</em></span></a></li>
+				<li><a href="/discover/strategic-plan" title=""><span><em>10 Year Strategic Plan</em></span></a></li>
+				<li><a href="/alumni/support-the-hall/support-halls-priorities" title=""><span><em>Support the Hall’s Priorities</em></span></a></li>
+				<li><a href="/discover/green-survey" title=""><span><em>Green Survey Results 2019</em></span></a></li>
+				<li><a href="/discover/explore-teddy-hall/history-of-the-hall" title=""><span><em>History of the Hall</em></span></a></li>
+			</ul>
+		</li>
+			<li data-feature="2" class="hide-nonbox"><a href="/discover/sustainability" title="" style="background-image: url(/asset/Teddy_Hall_by_John_Cairns_20th_May_2019-4-427x640.jpg);" aria-label="Sustainability at St Edmund Hall, We aim to be one of the greenest and most environmentally sustainable colleges in Oxford - Find out more"><span data-cta="Find out more"><em data-excerpt="We aim to be one of the greenest and most environmentally sustainable colleges in Oxford">Sustainability at St Edmund Hall</em></span></a></li>
+			<li class="submenu"><a href="/people" title=""><span><em>People</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul1982">Show submenu for People</button>
+			<ul id="ul1982"aria-label=" submenu">
+				<li><a href="/people/fellows" title=""><span><em>Fellows</em></span></a></li>
+				<li><a href="/people/lecturers" title=""><span><em>Lecturers</em></span></a></li>
+				<li><a href="/people/staff" title=""><span><em>Staff</em></span></a></li>
+				<li><a href="/people/college-officers" title=""><span><em>College Officers</em></span></a></li>
+				<li><a href="/people/alumni" title=""><span><em>Alumni Perspectives</em></span></a></li>
+				<li><a href="/vacancies" title=""><span><em>Job Vacancies</em></span></a></li>
+			</ul>
+		</li>
+			<li><a href="/news/" title=""><span><em>News</em></span></a></li>
+			<li><a href="/events" title=""><span><em>What's On</em></span></a></li>
+			<li><a href="/blog" title=""><span><em>St Edmund Hall Blog</em></span></a></li>
+			<li class="submenu"><a href="/discover/explore-teddy-hall" title=""><span><em>Explore Teddy Hall</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul2195">Show submenu for Explore Teddy Hall</button>
+			<ul id="ul2195"aria-label=" submenu">
+				<li><a href="/discover/explore-teddy-hall/history-of-the-hall" title=""><span><em>History of the Hall</em></span></a></li>
+				<li><a href="/discover/explore-teddy-hall/library" title=""><span><em>Library and Archive</em></span></a></li>
+				<li><a href="/discover/explore-teddy-hall/chapel" title=""><span><em>Chapel</em></span></a></li>
+				<li><a href="/discover/livingwall" title=""><span><em>Living Wall</em></span></a></li>
+				<li><a href="/discover/explore-teddy-hall/maps" title=""><span><em>Maps</em></span></a></li>
+				<li><a href="/discover/explore-teddy-hall/virtual-3d-tours-of-st-edmund-hall" title=""><span><em>Virtual 3D Tours</em></span></a></li>
+				<li><a href="https://thecollegestore.co.uk/collections/st-edmund-hall?utm_source=google&utm_medium=store+link" title=""><span><em>Merchandise</em></span></a></li>
+				<li><a href="/discover/university-prizes" title=""><span><em>University Prizes</em></span></a></li>
+			</ul>
+		</li>
+			<li class="submenu"><a href="/discover/research" title=""><span><em>Research</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul2004">Show submenu for Research</button>
+			<ul id="ul2004"aria-label=" submenu">
+				<li><a href="/discover/ces" title=""><span><em>Conversations in Environmental Sustainability: beyond greenwashing</em></span></a></li>
+				<li><a href="/access-hall-areas" title=""><span><em>Access Hall Areas</em></span></a></li>
+				<li><a href="/blog" title=""><span><em>St Edmund Hall Blog</em></span></a></li>
+				<li><a href="/discover/research/centre-for-the-creative-brain-2" title=""><span><em>Centre for the Creative Brain</em></span></a></li>
+				<li><a href="/discover/research/fellowship-lectures" title=""><span><em>Fellowship Lunchtime Lectures</em></span></a></li>
+				<li><a href="/discover/research/cie-seminars" title=""><span><em>Global Public Seminars in Comparative and International Education</em></span></a></li>
+				<li><a href="/mystery-cycle" title=""><span><em>The Oxford Medieval Mystery Cycle</em></span></a></li>
+				<li><a href="/discover/research/oxford-chinese-economy-programme-oxcep" title=""><span><em>Oxford Chinese Economy Programme (OXCEP)</em></span></a></li>
+			</ul>
+		</li>
+			<li class="submenu"><a href="/discover/conferences" title=""><span><em>Conferences and Weddings</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul2103">Show submenu for Conferences and Weddings</button>
+			<ul id="ul2103"aria-label=" submenu">
+				<li><a href="/discover/conferences/weddings-civil-ceremonies-and-receptions" title=""><span><em>Weddings, Civil Ceremonies and Receptions</em></span></a></li>
+				<li><a href="/discover/conferences/conferences" title=""><span><em>Conferences, Meetings and Summer Schools</em></span></a></li>
+				<li><a href="/discover/conferences/accommodation" title=""><span><em>Accommodation</em></span></a></li>
+				<li><a href="/discover/conferences/dining-at-st-edmund-hall" title=""><span><em>Fine Dining</em></span></a></li>
+			</ul>
+		</li>
+			<li><a href="/discover/explore-teddy-hall/visiting-the-college" title=""><span><em>Visit the College</em></span></a></li>
+			<li><a href="/policies-accounts-and-legal-documents" title=""><span><em>Policies</em></span></a></li>
+			<li><a href="/vacancies" title=""><span><em>Job Vacancies</em></span></a></li>
+		</ul>
+		</li>
+			<li class="submenu"><a href="/alumni" title=""><span><em>Alumni</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul433">Show submenu for Alumni</button>
+		<ul id="ul433" class="nested" data-features="2"aria-label=" submenu">
+			<li class="submenu"><a href="/alumni/support-the-hall" title=""><span><em>Support the Hall</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul3055">Show submenu for Support the Hall</button>
+			<ul id="ul3055"aria-label=" submenu">
+				<li><a href="https://hallmarkscampaign.seh.ox.ac.uk/" title=""><span><em>HALLmarks Campaign</em></span></a></li>
+				<li><a href="/alumni/support-the-hall/support-halls-priorities" title=""><span><em>The Hall's Strategic Priorities</em></span></a></li>
+				<li><a href="https://www.campaign.ox.ac.uk/page.aspx?pid=2848" title=""><span><em>Donate Today</em></span></a></li>
+				<li><a href="/alumni/support-the-hall/leave-a-legacy" title=""><span><em>Leave a Legacy</em></span></a></li>
+				<li><a href="/donor-recognition" title=""><span><em>Donor Recognition</em></span></a></li>
+			</ul>
+		</li>
+			<li class="submenu"><a href="/events/alumni" title=""><span><em>What's On</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul3427">Show submenu for What's On</button>
+			<ul id="ul3427"aria-label=" submenu">
+				<li><a href="/events/alumni" title=""><span><em>Events calendar</em></span></a></li>
+				<li><a href="/alumni/teddy-talks" title=""><span><em>Teddy Talks</em></span></a></li>
+				<li><a href="/alumni/aularian-authors" title=""><span><em>Aularian Authors</em></span></a></li>
+				<li><a href="/alumni/seha/spirit-of-the-hall" title=""><span><em>Podcast: Spirit of the Hall</em></span></a></li>
+			</ul>
+		</li>
+			<li><a href="/news" title=""><span><em>News</em></span></a></li>
+			<li><a href="/alumni/publications" title=""><span><em>Publications</em></span></a></li>
+			<li class="submenu"><a href="/alumni/get-involved" title=""><span><em>Get Involved</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul3056">Show submenu for Get Involved</button>
+			<ul id="ul3056"aria-label=" submenu">
+				<li><a href="/alumni/get-involved/volunteering-2" title=""><span><em>Volunteering</em></span></a></li>
+				<li><a href="/alumni/get-involved/alumni-societies" title=""><span><em>Alumni Societies</em></span></a></li>
+			</ul>
+		</li>
+			<li class="submenu"><a href="/alumni/keep-in-touch" title=""><span><em>Keep in Touch</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul3057">Show submenu for Keep in Touch</button>
+			<ul id="ul3057"aria-label=" submenu">
+				<li><a href="/alumni/keep-in-touch/update-your-details" title=""><span><em>Update Your Details</em></span></a></li>
+				<li><a href="/alumni/keep-in-touch/find-a-friend" title=""><span><em>Find a Friend</em></span></a></li>
+			</ul>
+		</li>
+			<li><a href="/alumni/benefits-and-services" title=""><span><em>Benefits and Services</em></span></a></li>
+			<li data-feature="1" class="hide-nonbox"><a href="https://hallmarkscampaign.seh.ox.ac.uk/" title="" style="background-image: url(/asset/Entrance-of-Teddy-Hall-Shield-mobile.jpg);" aria-label="HALLmarks Campaign, Discover our £50m campaign - Visit website"><span data-cta="Visit website"><em data-excerpt="Discover our £50m campaign">HALLmarks Campaign</em></span></a></li>
+			<li data-feature="2"><a href="/alumni/aularian-connect" title="" style="background-image: url(/asset/Aularian-Connect-menu-image-mobile.jpg);" aria-label="Aularian Connect, A new networking site for Aularians - Find out more"><span data-cta="Find out more"><em data-excerpt="A new networking site for Aularians">Aularian Connect</em></span></a></li>
+			<li><a href="/alumni/aularian-connect" title=""><span><em>Aularian Connect</em></span></a></li>
+			<li><a href="/people/21stcenturyhallfaces" title=""><span><em>21st Century Hall</em></span></a></li>
+			<li class="submenu"><a href="/alumni/seha" title=""><span><em>St Edmund Hall Association</em></span></a><button type="button" aria-has-popup="true" aria-controls="ul9516">Show submenu for St Edmund Hall Association</button>
+			<ul id="ul9516"aria-label=" submenu">
+				<li><a href="/alumni/seha" title=""><span><em>About Us</em></span></a></li>
+				<li><a href="/alumni/seha/minutes-financial-statements" title=""><span><em>Minutes and Financial Statements</em></span></a></li>
+				<li><a href="/alumni/seha/spirit-of-the-hall" title=""><span><em>Podcast: Spirit of the Hall</em></span></a></li>
+			</ul>
+		</li>
+		</ul>
+		</li>
+			<li><a href="/discover/sustainability" title=""><span><em>Sustainability</em></span></a></li>
+					</ul>
+			<ul id="tn">
+
+			<li><a href="/students">Students</a></li>
+			<li><a href="/senior-common-room">SCR</a></li>
+			<li><a href="/staff">Staff</a></li>
+			<li><a href="http://www.aularianconnect.com">Aularian Connect</a></li>
+			<li><a href="https://www.campaign.ox.ac.uk/page.aspx?pid=2848">Support Teddy Hall</a></li>
+			<li><a href="/discover/conferences/accommodation">Visitor Accommodation</a></li>
+						<li class="off"><a data-logout href="/"><span data-new>Logout</span></a></li>
+				<li><a href="/login" data-login="true" tabindex="0"><span data-new>Login</span></a></li>
+				<li><a id="search-toggle" class="search-toggle" role="button" tabindex="0" aria-label="Open search form"><span>Search</span></a></li>
+			</ul>
+		</nav>
+		<div>
+			<a id="header-toggle" role="button" aria-controls="header" tabindex="0">Header</a>
+		</div>
+	</div>
+</header><main id="blog">
+<a id="main" aria-hidden="true"></a>	
+<section class="layout-intro-panel intro-tinted max-child">
+	<div class="adapt table col1">
+		<div>
+			<div class="wrap max-txt-child m-auto-child">
+				<h1>Celebrating International Day of Women and Girls in Science through the Library</h1>
+				<p><span>10 Feb 2023</span>|<span>Heather Barr</span></p>
+				<ul class="noli">
+					<li class="library-arts-and-archives">Library, Arts &amp; Archives</li>
+				</ul>
+								
+			</div>
+		</div>
+	</div>
+</section>
+	
+	<section id="trail">
+		<div class="trail pad-x pad-t"><a href="/">Home</a> / <a href="/blog">Blog</a> / <a href="/blog/celebrating-international-day-of-women-and-girls-in-science-through-the-library">Celebrating International Day of Women and Girls in Science through the Library</a></div>
+	</section>	
+	
+<div class="wrapper-sidebar side-r">
+	<div>
+
+<section class="sec max-child layout-multi-text">
+	<div class="adapt flx col1" data-min="300">
+		<div>
+			<div class="wrap ">
+			<p class="intro">Climate change is perhaps the greatest threat to life on earth. Climate scientists are producing vital work to help us to understand, respond to, and reduce the impact of our changing environment. Yet in climate science, women remain drastically underrepresented. Analysis of the 100 most influential climate science papers published 2016-2020 reveals that women make up less than one-quarter of the authors and only 12% of the research leads.<sup>[1]</sup> This International Day of Women and Girls in Science, the Library is exploring our collections to celebrate some of the women who have led the way through the male-dominated field of climate science.</p>
+			<p class="h2 txt-9B3A36">For the general reader</p>
+			<p>Some of the most interesting and powerful work on the climate and environment has been conducted by women:</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="sec max-child layout-text-image-wrap">
+	<div data-txt-min="300" data-tag="0" data-tag-col="0">
+		<figure style="background-image:url(/asset/Silent-Spring-488x750.jpeg); min-width:250px; max-width:250px;" class="fl">
+			<img src="/asset/Silent-Spring-488x750.jpeg" width="488" height="750" alt="Rachel Carso's Silent Spring" title="Silent Spring">
+		</figure>
+		<p class="h3">Rachel Carson</p>
+		<p><em><strong>Silent Spring</strong></em></p>
+		<p>Rachel Carson was an American marine biologist and conservationist; she is lauded as one of the early leaders of climate and environmental science. Carson&#x2019;s 1962 book <em>Silent Spring</em> outlined the danger to wildlife and biodiversity posed by the widespread use of pesticides, bringing this to the attention of policy makers and the general public. <em>Silent Spring</em> was exceptionally influential, and led to a fundamental shift in the US government&#x2019;s and public&#x2019;s attitudes toward and use of pesticides. It prompted policy changes and, in 1972, a ban on the domestic use of the pesticide DDT. In 2012, <em>Silent Spring</em> was designated a National Historic Chemical Landmark by the American Chemical Society for its role in the development of the modern environmental movement.<sup>[2]</sup></p>
+		<p>Find it in the Library: D18e CAR:Sil</p>
+	</div>
+</section>
+<section class="sec max-child layout-text-image-wrap">
+	<div data-txt-min="300" data-tag="0" data-tag-col="0">
+		<figure style="background-image:url(/asset/Treading-on-thin-air-500x750.jpg); min-width:250px; max-width:250px;" class="fl">
+			<img src="/asset/Treading-on-thin-air-500x750.jpg" width="500" height="750" alt="Treading on thin air" title="Treading on thin air">
+		</figure>
+		<p class="h3">Elizabeth Austin</p>
+		<p><em><strong>Treading on Thin Air</strong></em></p>
+		<p>In&#xA0;Treading on Thin Air, atmospheric physicist Elizabeth Austin reveals how the climate is intimately tied to our daily lives. As the climate changes, the effects and impacts of weather on humans, society and the planet are changing drastically. <em>Treading on Thin Air</em> seeks to demystify the processes of weather and climate systems, and help to understand the real-world impact of climate change.</p>
+		<p>Find it in the Library: D18 AUS:Tre</p>
+		<p>&#xA0;</p>
+		<p>&#xA0;</p>
+		<p>&#xA0;</p>
+		<p class="h2 txt-9B3A36">Textbooks</p>
+		<p>Think all your textbooks are written by men? Think again!</p>
+	</div>
+</section>
+<section class="sec max-child layout-text-image-wrap">
+	<div data-txt-min="300" data-tag="0" data-tag-col="0">
+		<figure style="background-image:url(/asset/Biodiversity-II.jpg); min-width:250px; max-width:250px;" class="fl">
+			<img src="/asset/Biodiversity-II.jpg" width="182" height="277" alt="Biodiversity II" title="Biodiversity II">
+		</figure>
+		<p class="h3">Marjorie L. Reaka-Kudla</p>
+		<p><em><strong>Biodiversity II</strong></em></p>
+		<p>A Professor in the <a href="https://biology.umd.edu/people/marjorie-reaka">Department of Biology at the University of Maryland</a>, Marjorie L. Reaka-Kudla&#x2019;s research centres on biodiversity and extinction, in particular regarding coral reefs and Crustacea. Some of this work culminated in <em>Biodiversity II</em>, a volume co-edited by Reaka-Kudla, D.E. Wilson and E.O. Wilson. The book, as set out in its introduction, demonstrates that the vital importance of studying biodiversity as a part of climate science: &#x201C;the potential benefits of knowing and conserving [the earth&#x2019;s] biodiversity are too great and the costs of losing it are too high&#x201D;.</p>
+		<p>Find it in the Library: D18 REAK:Bio</p>
+	</div>
+</section>
+<section class="sec max-child layout-text-image-wrap">
+	<div data-txt-min="300" data-tag="0" data-tag-col="0">
+		<figure style="background-image:url(/asset/Climate-dynamics-525x750.jpg); min-width:250px; max-width:250px;" class="fl">
+			<img src="/asset/Climate-dynamics-525x750.jpg" width="525" height="750" alt="Zinta Zommers" title="Climate dynamics">
+		</figure>
+		<p class="h3">Kerry H. Cook</p>
+		<p><em><strong>Climate Dynamics</strong></em></p>
+		<p>Kerry H. Cook is a Professor at the <a href="https://www.jsg.utexas.edu/researcher/kerry_cook/">University of Texas at Austin&#x2019;s</a> Department of Geological Science whose work focuses on predicting and understanding climate change and climate variability worldwide. &#xA0;Her research makes use of numerical models along with observational analysis to improve our understanding about how features and processes at the earth&#8217;s surface interact with atmospheric circulation and precipitation fields. <em>Climate Dynamics</em> is an introduction to the earth&#x2019;s climate system, intended to provide undergraduates a foundation for observing and analysing changes in the climate.</p>
+		<p>Find it in the Library: D18 COO:Cli</p>
+	</div>
+</section>
+<section class="sec max-child layout-text-image-wrap">
+	<div data-txt-min="300" data-tag="0" data-tag-col="0">
+		<figure style="background-image:url(/asset/Resilience.jpg); min-width:250px; max-width:250px;" class="fl">
+			<img src="/asset/Resilience.jpg" width="374" height="500" alt="Resilience: The Science of Adaptation to Climate Change" title="Resilience">
+		</figure>
+		<p class="h3">Zinta Zommers</p>
+		<p><em><strong>Resilience: The Science of Adaptation to Climate Change</strong></em></p>
+		<p>Zinta Zommers is a specialist in climate change adaptation and risk management. Her work aims to reduce vulnerability to climate shocks by strengthening early warning and anticipatory action systems. She is a lead author of the Intergovernmental Panel on Climate Change, and has held a variety of roles with the UN,&#xA0;including as part of the Secretary-General&#x2019;s climate change team and a member of the UN Chief Scientist&#x2019;s Office.[1] Edited by Zommers and Keith Alverson, Resilience: The Science of Adaptation to Climate Change analyses the ongoing attempts to adapt to the impact of climate change, and evaluates how we can ensure climate security for the future.</p>
+		<p>Find it in the Library: D18 ZOM:Res</p>
+	</div>
+</section>
+<section class="sec max-child layout-multi-text">
+	<div class="adapt flx col1" data-min="300">
+		<div>
+			<div class="wrap ">
+			<p class="h2 txt-9B3A36">Looking to the future</p>
+			<p>St Edmund Hall is proud to be at the forefront of environmental sustainability initiatives across the colleges of Oxford. As part of our commitment to being one of the greenest colleges in Oxford, the Hall has launched a range of sustainability initiatives, including the publication of a 10-year <a href="https://www.seh.ox.ac.uk/discover/sustainability">Environmental Sustainability Strategy</a>. In the Library, we have worked hard to improve our sustainability and decrease our impact on the environment. For example, we have successfully reduced the amount of printing by encouraging people to &#x2018;think before you print&#x2019;, and a new waste and recycling station was an instant hit with students, library staff, and cleaning staff!</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="sec max-child layout-text-image-wrap">
+	<div data-txt-min="300" data-tag="0" data-tag-col="0">
+		<figure style="background-image:url(/asset/Botanicum-544x750.jpg); min-width:250px; max-width:250px;" class="fl">
+			<img src="/asset/Botanicum-544x750.jpg" width="544" height="750" alt="Botanicum" title="Botanicum">
+		</figure>
+		<p>This term, Professor Baroness (Kathy) Willis, Principal of St Edmund Hall, has chaired the first of a new Hall seminar series: &#x2018;<a href="/discover/ces">Conversations in Environmental Sustainability: beyond greenwashing</a>&#x2019;. This inaugural session brought together industry and academic leaders to ask &#x2018;Where are the innovations in renewable energy?&#x2019;. Keep your eyes peeled for the next instalment!</p>
+		<p>Professor Willis&#x2019; own research focuses on the relationship between long-term ecosystem dynamics and environmental change. Her extensive publications include The Evolution of Plants, now in its second edition, and also popular science books such as Botanicum and Plants: From Roots to Riches.</p>
+		<p>Find Kathy&#x2019;s books in the Library: SEHF/WIL</p>
+		<p class="h2 txt-9B3A36">Looking to the past</p>
+		<p>In 1856, a woman named Eunice Foote became the first person to suggest that increased levels of carbon dioxide in the atmosphere &#x201C;would give to our earth a high temperature&#x201D;. Foote&#x2019;s paper &#x2018;<a href="https://static1.squarespace.com/static/5a2614102278e77e59a04f26/t/5aa1c3cf419202b500c3b388/1520550865302/foote_circumstances-affecting-heat-suns-rays_1856.pdf">Circumstances affecting the heat of the sun&#8217;s rays</a>&#x2019; (published in <em>The American Journal of Science and Arts</em>) proved that heat from the sun is absorbed by water vapour and carbon dioxide. This discovery underpins our understanding not only of what is known as &#x2018;the greenhouse effect&#x2019;, but also of climate and weather systems more widely. However, it was not until over 150 years later that this was correctly attributed to Foote. Until the early 2010s, John Tyndall was understood to have first made this discovery in 1859. Foote&#x2019;s gender is undoubtedly part of the reason why her work was forgotten for such a long time. In fact, at the 1856 meeting of the American Association for the Advancement of Science, Eunice did not present her own paper, instead having to defer to Joseph Henry (first Secretary of the Smithsonian Institution).</p>
+	</div>
+</section>
+<section class="sec max-child layout-text-image-wrap">
+	<div data-txt-min="300" data-tag="0" data-tag-col="0">
+		<figure style="background-image:url(/asset/Our-Biggest-Experiment-500x750.jpg); min-width:250px; max-width:250px;" class="fl">
+			<img src="/asset/Our-Biggest-Experiment-500x750.jpg" width="500" height="750" alt="Our biggest experiement" title="Our Biggest Experiment">
+		</figure>
+		<p>Today, though, we can celebrate Foote&#x2019;s remarkable work, and use the story of her forgotten discovery as a cautionary tale. Gender equality in the sciences has come a long way from Foote&#x2019;s nineteenth-century culture &#x2013; where the scientific learned societies barred women from entry. But even today, less than 30% of scientific researchers worldwide are women; and this falls to 12% in the <a href="https://www.reuters.com/investigates/special-report/climate-change-scientists-list/">Reuters Hot List</a> of the world&#x2019;s leading 1000 climate scientists. The work of initiatives such as International Day of Women and Girls in Science is far from over.</p>
+		<p>Find out more about Eunice and why her work was forgotten via <a href="https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0066">https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0066</a></p>
+		<p>Read more about Eunice and her work in <strong>Alice Bell&#x2019;s <em>Our Biggest Experiment: An Epic History of the Climate Crisis</em>.</strong></p>
+		<p>Find it in the Library: D18 BEL:Our</p>
+	</div>
+</section>
+<section class="sec max-child layout-multi-text">
+	<div class="adapt flx col1" data-min="300">
+		<div>
+			<div class="wrap ">
+			<p class="legal">[1] <a href="https://www.carbonbrief.org/analysis-the-lack-of-diversity-in-climate-science-research/">https://www.carbonbrief.org/analysis-the-lack-of-diversity-in-climate-science-research/</a></p>
+			<p class="legal">[2] <a href="https://www.acs.org/education/whatischemistry/landmarks/rachel-carson-silent-spring.html">https://www.acs.org/education/whatischemistry/landmarks/rachel-carson-silent-spring.html</a></p>
+			<p class="legal">[3] <a href="https://global.upenn.edu/perryworldhouse/expert/zinta-zommers">https://global.upenn.edu/perryworldhouse/expert/zinta-zommers</a></p>
+			</div>
+		</div>
+	</div>
+</section>		<section id="cat">
+			<p>Category:
+					<a class="txt-9B3A36" href="https://www.seh.ox.ac.uk/blog/library-arts-and-archives">Library, Arts &amp; Archives</a>
+			</p>
+	</div>
+	<div class="sidebar">
+		<div class="boxed">			
+			<div class="box">
+				<h6 class="h3">Blog Categories</h6>
+				<ul class="category noli">
+					<li class="library-arts-and-archives"><a href="https://www.seh.ox.ac.uk/blog/library-arts-and-archives">Library, Arts &amp; Archives</a></li>
+					<li class="research"><a href="https://www.seh.ox.ac.uk/blog/research">Research</a></li>
+				</ul>
+				<p class="cta"><a href="/blog">View All Blog Posts</a></p>
+			</div>
+			<div class="box author">
+				<h6 class="h3">Author</h6>
+				<div>
+					<div>
+						<figure class="bg-cov"  style="background-image:url(/asset/Heather-Barr-Graduate-Trainee-Library-Assistant_Webcopy-300x268.jpg);">
+							<img src="/asset/Heather-Barr-Graduate-Trainee-Library-Assistant_Webcopy-300x268.jpg" width="300" height="268" alt="Heather Barr" title="Heather Barr, Graduate Trainee Library Assistant_Webcopy">
+						</figure>
+						<h4>Heather<br> Barr</h4>
+					</div>
+<p>Heather joined Teddy Hall in September 2021 as the Graduate Trainee Library Assistant.</p>
+					<p><a href="https://www.seh.ox.ac.uk/people/heather-barr">View profile</a></p>
+				</div>
+	
+			</div>
+			<div class="box">
+				<h6 class="h3">Share Post</h6>
+				<ul class="social">
+					<li class="twitter"><a href="https://twitter.com/home?status=https%3A%2F%2Fwww.seh.ox.ac.uk%2Fblog%2Fcelebrating-international-day-of-women-and-girls-in-science-through-the-library" target="_blank">Twitter</a></li>
+					<li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.seh.ox.ac.uk%2Fblog%2Fcelebrating-international-day-of-women-and-girls-in-science-through-the-library" target="_blank">Facebook</a></li>
+					<li class="linkedin" ><a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.seh.ox.ac.uk%2Fblog%2Fcelebrating-international-day-of-women-and-girls-in-science-through-the-library&title=Celebrating+International+Day+of+Women+and+Girls+in+Science+through+the+Library&summary=&source=" target="_blank">LinkedIn</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>	
+</main>
+<div id="modal" class="pad" role="dialog" aria-live="polite">
+	<div role="document">
+		<button type="button" class="close"><span>Close</span></button>
+	</div>
+</div>
+<div id="video" class="pad" role="dialog" aria-live="polite">
+	<div role="document">
+		<button type="button" class="close"><span>Close</span></button>
+	</div>
+</div>
+<div id="tint" aria-hidden="true">
+	<a><span></span></a>
+</div>
+<div>
+	<footer>
+		<div id="address">
+			<div>
+				<address><a href="https://www.google.co.uk/maps/dir/''/St+Edmund+Hall,+Queen's+Ln,+Oxford+OX1+4AR/''/@51.7530512,-1.2543631,16z/data=!4m14!4m13!1m5!1m1!1s0x4876c6adb2c486ff:0x54fd74639e55e375!2m2!1d-1.249984!2d51.753072!1m5!1m1!1s0x4876c6adb2c486ff:0x54fd74639e55e375!2m2!1d-1.249984!2d51.753072!1m0" target="_blank">Queen&rsquo;s Lane, Oxford, OX1 4AR <span>View on map</span></a></address>
+				<label for="tel">Phone:</label><a id="tel" href="tel:+44 (0)1865 279000">+44 (0)1865 279000</a><br>
+				<label for="email">Email:</label><a id="email" href="mailto:lodge@seh.ox.ac.uk">lodge@seh.ox.ac.uk</a>
+			</div>
+		</div>
+		<div id="connect">
+			<label for="social">Connect</label>
+			<ul id="social">
+				<li class="facebook"><a href="https://www.facebook.com/StEdmundHall" target="_blank">Facebook</a></li>
+				<li class="twitter"><a href="https://twitter.com/stedmundhall" target="_blank">Twitter</a></li>					
+				<li class="instagram"><a href="https://www.instagram.com/stedmundhall/ " target="_blank">Instagram</a></li>
+				<li class="linkedin"><a href="https://www.linkedin.com/company/st-edmund-hall" target="_blank">Linkedin</a></li>
+				<li class="youtube"><a href="https://www.youtube.com/user/StEdmundHall" target="_blank">YouTube</a></li>
+			</ul>
+		</div>
+		<div id="copy">
+			<ul>
+
+			<li><a href="/discover/explore-teddy-hall/visiting-the-college">Visit Us</a></li>
+			<li><a href="/about/contact-us">Contact Us</a></li>
+			<li><a href="/news">News</a></li>
+			<li><a href="/events">Events</a></li>
+			<li><a href="/policies-accounts-and-legal-documents">Policies</a></li>
+			<li><a href="/vacancies">Job Vacancies</a></li>
+			<li><a href="/accessibility-statement">Website Accessibility</a></li>
+			<li><a href="/discover/strategic-plan">10 Year Strategic Plan</a></li>
+			<li><a href="/discover/sustainability">Sustainability</a></li>
+		
+	
+				<li>Charity No. 1137470</li>
+			</ul>
+			<ul>
+				<li>&copy; St Edmund Hall 2023</li>
+				<li><a id="redbot" href="http://redbot.uk" title="Website design and development by REDBOT">Made by <span>REDBOT</span></a></li>
+			</ul>
+		</div>
+	</footer>
+</div>
+<script type='text/javascript' src='//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js' id='mathjax-js'></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HBWG2HHCMY"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-HBWG2HHCMY');</script>
+</body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
